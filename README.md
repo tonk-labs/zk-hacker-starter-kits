@@ -15,4 +15,5 @@ A curated set of starter kits for getting on with your zk (and other cryptograph
 
 
 ## Current Kits
+[noir-starter](https://github.com/noir-lang/noir-starter)
 
