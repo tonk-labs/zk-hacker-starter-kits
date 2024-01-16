@@ -1,0 +1,3 @@
+[submodule "kits/noir-starter"]
+	path = kits/noir-starter
+	url = git@github.com:noir-lang/noir-starter.git
