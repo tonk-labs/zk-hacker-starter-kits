@@ -9,11 +9,6 @@ A curated set of starter kits for getting on with your zk (and other cryptograph
 2. Tooling landscape changing so quickly documentation is slightly out of date, example repos are way out of date and combining disparate tooling into one project structure can be a pain.
 3. Typically I find code to be more instructive than documentation for getting started. All I need is the right framing and then filling in the details becomes a relatively straightforward task.
 
-## Table of Contents
-
-- [Current Kits](#current-kits)
-
-
 ## Current Kits
 [noir-starter](https://github.com/noir-lang/noir-starter)
 
