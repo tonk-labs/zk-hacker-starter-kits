@@ -78,10 +78,12 @@ This section guides you through submitting an enhancement suggestion for CONTRIB
 - At this stage of the project, idea generation is a good thing not a bad thing, so feel free to throw out whatever kind of wacky ideas you have. These will be prioritized by the maintaining team with labels, but there's no such thing as a "bad idea" even if we decide it's out of scope for the project long term.
 
 ### How to Contribute
+Most kits logically should be git submodules. This just makes everything easier to manage. 
 
 #### Major contributions 
 mainly include the addition of a new tooling paradigm. Let's say you want to experiment with a fun new tool and don't see something available here. Well, you're going to have to go through all the frustration of setting up the project structure anyway. Why not make it a contribution to the kits?
 
+or perhaps you see that the stock example for your favorite `insert tooling of choice` isn't exactly right. Certainly it would be much easier if just things were done X way instead of Y way. Well, now's your chance to submit that PR.
 
 #### Minor contributions 
 would include updating or amending one of the current kits. Let's say you pull down a kit and you can't wait to go. You run any setup scripts or try to compile and realize it's broken. Well, you're going to fix it anyway! Why not make it a contribution to this kit?
