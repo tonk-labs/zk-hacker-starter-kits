@@ -1,3 +1,9 @@
 [submodule "kits/noir-starter"]
 	path = kits/noir-starter
 	url = git@github.com:noir-lang/noir-starter.git
+[submodule "kits/bonsai-foundry-template"]
+	path = kits/bonsai-foundry-template
+	url = git@github.com:risc0/bonsai-foundry-template.git
+[submodule "kits/risc0-quickstart/risc0"]
+	path = kits/risc0-quickstart/risc0
+	url = git@github.com:risc0/risc0.git
