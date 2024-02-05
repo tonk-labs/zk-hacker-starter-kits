@@ -11,4 +11,8 @@ A curated set of starter kits for getting on with your zk (and other cryptograph
 
 ## Current Kits
 [noir-starter](https://github.com/noir-lang/noir-starter)
+
 [bonsai-foundry-template](https://github.com/risc0/bonsai-foundry-template) from Risc0
+
+[Risc0 hello-world](https://github.com/risc0/risc0/tree/main/examples/hello-world)
+
